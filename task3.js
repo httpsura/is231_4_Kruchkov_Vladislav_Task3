@@ -1,5 +1,5 @@
 let myBirthDay = "23.05.2007"
-let myName = "insaf"
+let myName = "vlad"
 let myAge = 18
 let work = true
 
@@ -15,4 +15,5 @@ console.log(work)
 
 myAge = 19
 console.log(myAge)
+
 
